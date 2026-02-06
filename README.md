@@ -1,2 +1,2 @@
-# tap_ala_pantalla-
-Un juego simple de tocar pantalla
+# mis Showcases de geode geometry dash-
+mis Showcase gratis para que prueben el bot en el mod XDbot
